@@ -1,0 +1,17 @@
+body {
+    font-family: arial;
+}
+
+td {
+    border: #994D1C 2px solid;
+    width: 200px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.first-row td {
+    background-color: #F5CCA0;
+
+}
